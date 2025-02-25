@@ -76,9 +76,9 @@
     },
     {
       "quality": "Bluray-2160p",
-      "min": 102,
+      "min": 50,
       "preferred": 1999,
-      "max": 2000
+      "max": 220
     },
     {
       "quality": "Remux-2160p",
