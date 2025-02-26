@@ -46,7 +46,7 @@
     },
     {
       "quality": "Bluray-1080p",
-      "min": 15,
+      "min": 12.5,
       "preferred": 995,
       "max": 120
     },
