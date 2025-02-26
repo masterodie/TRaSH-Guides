@@ -18,37 +18,37 @@
       "quality": "WEBRip-720p",
       "min": 10,
       "preferred": 995,
-      "max": 1000
+      "max": 80
     },
     {
       "quality": "WEBDL-720p",
       "min": 10,
       "preferred": 995,
-      "max": 1000
+      "max": 80
     },
     {
       "quality": "Bluray-720p",
-      "min": 17.1,
+      "min": 12.5,
       "preferred": 995,
-      "max": 1000
+      "max": 80
     },
     {
       "quality": "WEBRip-1080p",
-      "min": 15,
+      "min": 12.5,
       "preferred": 995,
-      "max": 1000
+      "max": 100
     },
     {
       "quality": "WEBDL-1080p",
-      "min": 15,
+      "min": 12.5,
       "preferred": 995,
-      "max": 1000
+      "max": 100
     },
     {
       "quality": "Bluray-1080p",
-      "min": 50.4,
+      "min": 25,
       "preferred": 995,
-      "max": 1000
+      "max": 120
     },
     {
       "quality": "Bluray-1080p Remux",
